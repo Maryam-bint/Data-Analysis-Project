@@ -91,7 +91,7 @@ Data-Analysis-Project/
 
 [View the Sales Analysis Notebook](sales_analysis.ipynb) 
 
-[Dateset](data/Sample-Superstore.csv)  
+[Dataset](data/Sample%20-%20Superstore.csv)  
 
 
 
