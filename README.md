@@ -86,7 +86,7 @@ Data-Analysis-Project/
 ├── visuals/
 │
 └── README.md
-[View the Sales Analysis Notebook](notebooks/sales_analysis.ipynb)
+[View the Sales Analysis Notebook](sales_analysis.ipynb) 
 
 
 Conclusion
