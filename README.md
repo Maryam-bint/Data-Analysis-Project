@@ -88,8 +88,10 @@ Data-Analysis-Project/
 └── README.md
 
 ##Project Files
+
 [View the Sales Analysis Notebook](sales_analysis.ipynb) 
-[Dateset](data/Sample%20-%20Superstore.csv)
+
+[Dateset](data/Sample-Superstore.csv)  
 
 
 
