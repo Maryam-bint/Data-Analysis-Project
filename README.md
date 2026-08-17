@@ -68,24 +68,7 @@ Based on the analysis:
 4. Investigate differences between regional sales and profitability.
 5. Review discount patterns to determine their effect on profit margins.
 
-Project Structure
 
-Data-Analysis-Project/
-│
-├── data/
-│   └── archive/
-│       └── Sample - Superstore.csv
-│
-├── notebooks/
-│   └── sales_analysis.ipynb
-│
-├── power bi/
-│
-├── SQL/
-│
-├── visuals/
-│
-└── README.md
 
 ##Project Files
 
